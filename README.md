@@ -26,6 +26,7 @@ Thus, the LED operates automatically without manual switching.
 
 
 ## Program
+'''
 ***
 /* USER CODE BEGIN Header */
 /**
@@ -316,6 +317,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif /* USE_FULL_ASSERT */
 ***
+'''
 
 ## Result
 
